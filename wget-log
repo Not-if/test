@@ -1,0 +1,6 @@
+--2019-09-02 09:02:38--  http://code.tarena.com.cn/AIDCode/aid1908/01_python_base/day01/
+正在解析主机 code.tarena.com.cn (code.tarena.com.cn)... 210.13.41.140
+正在连接 code.tarena.com.cn (code.tarena.com.cn)|210.13.41.140|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 401 Unauthorized
+
+用户名/密码认证失败。
