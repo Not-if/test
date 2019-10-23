@@ -14,7 +14,7 @@ db = pymysql.connect(host='localhost',
 # 生成游标对象(操作数据库,执行sql语句)
 cur = db.cursor()
 f = open('dict.txt')
-# 开始执行各种对数据库的读写操作
+# 执行各种对数据库的读写操作
 try:
     exe = []
     for line in f:
